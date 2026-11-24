@@ -1,4 +1,4 @@
-import Game.Levels.HelloWorld
+import Game.Levels.Basics
 
 Title "The Group Theory Game"
 Introduction

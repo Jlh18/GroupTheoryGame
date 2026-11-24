@@ -1,6 +1,6 @@
 import Game.Metadata
 
-World "HelloWorld"
+World "Basics"
 Level 2
 
 Title "Hypothesis Names"
