@@ -1,7 +1,7 @@
 msgid ""
 msgstr "Project-Id-Version: Game v4.35.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-15\n"
+"POT-Creation-Date: 2026-11-24\n"
 "Last-Translator: \n"
 "Language-Team: none\n"
 "Language: en\n"
@@ -9,10 +9,6 @@ msgstr "Project-Id-Version: Game v4.35.0\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-Basepath: ../..\n"
 "X-Poedit-SearchPath-0: ."
-
-#: Game.lean:24
-msgid "A small template game."
-msgstr ""
 
 #: Game/Doc/Definitions.lean:6
 msgid "Addition"
@@ -44,8 +40,8 @@ msgstr ""
 msgid "Done!"
 msgstr ""
 
-#: Game.lean:3
-msgid "Game Skeleton"
+#: Game.lean:24
+msgid "Group Theory Game"
 msgstr ""
 
 #: Game/Levels/HelloWorld/L01_HelloWorld.lean:6
@@ -54,15 +50,6 @@ msgstr ""
 
 #: Game/Levels/HelloWorld.lean:6
 msgid "Hello World"
-msgstr ""
-
-#: Game.lean:14
-msgid "Here you can put additional information about the game. It is accessible\n"
-"from the starting through the drop-down menu.\n"
-"\n"
-"For example: Game version, Credits, Link to Github and Zulip, etc.\n"
-"\n"
-"Use **markdown**."
 msgstr ""
 
 #: Game/Levels/HelloWorld/L01_HelloWorld.lean:23
@@ -94,12 +81,18 @@ msgstr ""
 msgid "Proven in level 1"
 msgstr ""
 
+#: Game.lean:3
+msgid "The Group Theory Game"
+msgstr ""
+
 #: Game/Doc/Tactics.lean:3
 msgid "The way to proof reflexivity."
 msgstr ""
 
-#: Game.lean:9
-msgid "This conclusion is shown on the game overview once all worlds are completed."
+#: Game.lean:16
+msgid "This game is follows parts of the notes in ?\n"
+"This is a (Lean Game Server project)[https://github.com/hhu-adam/GameSkeleton].\n"
+"Many thanks to them for making this possible!"
 msgstr ""
 
 #: Game/Levels/HelloWorld.lean:11
@@ -109,10 +102,6 @@ msgstr ""
 #: Game/Levels/HelloWorld/L02_HypothesisNames.lean:8
 #: Game/Levels/HelloWorld/L03_NonProp.lean:8
 msgid "This is a test level."
-msgstr ""
-
-#: Game.lean:4
-msgid "This is the introduction text of the game."
 msgstr ""
 
 #: Game/Levels/HelloWorld/L01_HelloWorld.lean:27
@@ -134,15 +123,20 @@ msgstr ""
 msgid "Use an existing result."
 msgstr ""
 
+#: Game.lean:4
+msgid "Welcome!\n"
+"This game is a companion to Linear Algebra and Group Theory (MATH40003)\n"
+"for first year Mathematics undergraduates at Imperial."
+msgstr ""
+
+#: Game.lean:11
+msgid "Well done!"
+msgstr ""
+
 #. §0: `«{h}»`
 #. §1: `«{g}»`
 #: Game/Levels/HelloWorld/L01_HelloWorld.lean:15
 msgid "You can either start using §0 or §1."
-msgstr ""
-
-#. §0: `lean`
-#: Game.lean:25
-msgid "You should use this game as a template for your own game and add your own levels. §0"
 msgstr ""
 
 #. §0: `«{g}»`

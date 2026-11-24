@@ -1,28 +1,28 @@
 import Game.Levels.HelloWorld
 
-Title "Game Skeleton"
+Title "The Group Theory Game"
 Introduction
 "
-This is the introduction text of the game.
+Welcome!
+This game is a companion to Linear Algebra and Group Theory (MATH40003)
+for first year Mathematics undergraduates at Imperial.
 "
 
 Conclusion
 "
-This conclusion is shown on the game overview once all worlds are completed.
+Well done!
 "
 
-Info "
-Here you can put additional information about the game. It is accessible
-from the starting through the drop-down menu.
-
-For example: Game version, Credits, Link to Github and Zulip, etc.
-
-Use **markdown**.
+Info
+"
+This game is follows parts of the notes in ?
+This is a (Lean Game Server project)[https://github.com/hhu-adam/GameSkeleton].
+Many thanks to them for making this possible!
 "
 
-Languages "en" "de"
-CaptionShort "A small template game."
-CaptionLong "You should use this game as a template for your own game and add your own levels. `lean`"
+Languages "en"
+CaptionShort "Group Theory Game"
+CaptionLong ""
 -- Prerequisites "NNG4" -- add this if your game builds on other games
 CoverImage "images/cover.png"
 
